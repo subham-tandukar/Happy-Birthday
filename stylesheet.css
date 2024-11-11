@@ -1309,7 +1309,7 @@ o @keyframes bannar_come {
 
 @media (max-width: 640px) {
   .message p {
-    font-size: 30px;
+    font-size: 24px;
     color: #333;
   }
 }
