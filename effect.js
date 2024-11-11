@@ -227,7 +227,7 @@ $("document").ready(function () {
           i = i + 1;
           $("p:nth-child(" + i + ")")
             .fadeIn("slow")
-            .delay(4000);
+            .delay(8000);
           if (i == 50) {
             $("p:nth-child(49)")
               .fadeOut("slow")
